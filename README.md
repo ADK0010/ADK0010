@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADITYAKRISHNAN0010
 - 👀 I’m interested in Blockchain Development and Smart Contract Security.
-- 🌱 I’m currently learning Blockchain and it's principles
+- 🌱 I’m currently learning zk
 - 💞️ I’m looking to collaborate on Web3 Projects.
 - 📫 How to reach me adityakrishnan0010@gmail.com
 - Audit Portfolio = https://audits.sherlock.xyz/watson/Angry_Mustache_Man
