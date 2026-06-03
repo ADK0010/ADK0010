@@ -1,13 +1,15 @@
-# AdityaKrishnan aka Angry_Mustache_Man
+# AdityaKrishnan aka Angry_Mustache_Man 
+| [Immunefi](https://immunefi.com/profile/Angry_Mustache_Man/) | [Cantina](https://cantina.xyz/u/AngryMustacheMan) | [Sherlock](https://audits.sherlock.xyz/watson/Angry_Mustache_Man) | [Twitter/X](https://x.com/AdityaK0010) | [LinkedIn](https://www.linkedin.com/in/aditya-krishnan-162b5b1ba/) |
 
-Smart Contract Security Researcher | Solidity Developer | DeFi Infrastructure Engineer
+Smart Contract Security Researcher(Solidity-Rust) | Solidity Developer | DeFi Infrastructure Engineer
 
 - Paid findings across Immunefi, Sherlock, and competitive audit platforms
 - Specialized in DeFi protocols, concentrated liquidity systems, and EVM internals
 - Building blockchain infrastructure and analytics tooling
+- Triaged 100+ findings with Pashov Audit Group
 
 ## Audit Portfolio
-### Live Contract Bugs 
+### Live On chain Contract Bugs 
 
 | Protocol | Severity | Amount Paid |Platform |Status|
 |----------|----------|--------------|---------|------|
@@ -18,18 +20,24 @@ Smart Contract Security Researcher | Solidity Developer | DeFi Infrastructure En
 |Xion | Medium | N.A. | Immunefi | Duplicated |
 |Alchemix|Medium|$4000|Immunefi|Paid|
 
-Checkout my **Immunefi** Profile here : https://immunefi.com/profile/Angry_Mustache_Man/ 
+Checkout my **Immunefi** Profile
 
-Ranked #123 All time on Codehawks(As of Oct 25') with **Top 3** result in **Stakelink** Contest : https://profiles.cyfrin.io/u/angrymustacheman
+### Audit Contests
 
 Multiple **Unique/Less Duped** vulnerabilities found in multiple security audit Contests : 
-|Protocol |Severity |Unique/1 Dup |Total Amount Paid in the contest |
-|---------|---------|--------------|----------------------------------| 
-|Bima      | Medium | Solo               | $ 5006         |
-|Doppler-Contracts|Medium|Solo | $ 3154          | 
-|Silo | Medium | 1 Dup | $ 5345 |  
+
+|Protocol  |Highlights |Language |Rank |
+|----------|-----------|--------------------|-----| 
+|Stakelink |Issue with 2 dups | Solidity |🥉 Top 3 |
+|Doppler-Contracts|Solo issue | Solidity  |Top 7 |
+|Reflector V3 | Best QA Report | Rust| Top 7 |
+|Bima      | Solo issue | Solidity |Top 9 |
+|Silo | Issue with 1 dup | Solidity | Top 9 |  
 
 Also this is my All - Time Security Sherlock Profile - https://audits.sherlock.xyz/watson/Angry_Mustache_Man 
+
+### Notable other experience
+Triaging Experience : I have worked with **Pashov Audit Group** in judging issues on codebases , with an experience of triaging 100+ issues/reports . 
 
 ## Personal projects
 ### Uniswap Arbitrum Risk Indexer
@@ -46,14 +54,8 @@ https://github.com/ADK0010/uniswap-arb-risk-indexer
 
 ## Tech Stack
 
-Solidity • Foundry • TypeScript • ethers.js • PostgreSQL • Hardhat • zkSync • Uniswap V3 • EVM Internals 
+Solidity • Foundry • TypeScript • ethers.js • PostgreSQL • Hardhat • Uniswap V3 • EVM Internals 
 
-## Profiles
-- Immunefi: https://immunefi.com/profile/Angry_Mustache_Man/
-- Cantina: https://cantina.xyz/u/AngryMustacheMan
-- Sherlock: https://audits.sherlock.xyz/watson/Angry_Mustache_Man
-- Twitter/X: https://x.com/AdityaK0010
-- LinkedIn: https://www.linkedin.com/in/aditya-krishnan-162b5b1ba/
 
 <!---
 ADK0010/ADK0010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
