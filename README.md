@@ -54,7 +54,7 @@ https://github.com/ADK0010/uniswap-arb-risk-indexer
 
 ## Tech Stack
 
-Solidity • Foundry • TypeScript • ethers.js • PostgreSQL • Hardhat • Uniswap V3 • EVM Internals 
+Solidity • Foundry • TypeScript • ethers.js • PostgreSQL • Hardhat • Uniswap V3 • EVM Internals • Rust
 
 
 <!---
