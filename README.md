@@ -19,7 +19,7 @@ Smart Contract Security Researcher(Solidity-Rust) | Solidity Developer | DeFi In
 |Beradrome|Medium|N.A.|Immunefi|Duplicated| 
 |Xion | Medium | N.A. | Immunefi | Duplicated |
 |Alchemix|Medium|$4000|Immunefi|Paid|
-|Gearbox | Medium | N.A.| Immunefi | Paid |
+|Gearbox | Medium | N.A.| Immunefi | Duplicated |
 
 Checkout my **Immunefi** Profile
 
