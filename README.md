@@ -16,10 +16,8 @@ Smart Contract Security Researcher(Solidity-Rust) | Solidity Developer | DeFi In
 |Elixir | MEDIUM | $1000|Immunefi|Paid|
 |YieldNest | HIGH | $5000|Immunefi|Paid| 
 |Ostium | LOW | $1000 | Immunefi |Paid|
-|Beradrome|Medium|N.A.|Immunefi|Duplicated| 
-|Xion | Medium | N.A. | Immunefi | Duplicated |
 |Alchemix|Medium|$4000|Immunefi|Paid|
-|Gearbox | Medium | N.A.| Immunefi | Duplicated |
+|Gearbox | High | N.A.| Immunefi |Confirmed|
 
 Checkout my **Immunefi** Profile
 
