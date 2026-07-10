@@ -11,13 +11,13 @@ Smart Contract Security Researcher(Solidity-Rust) | Solidity Developer | DeFi In
 ## Audit Portfolio
 ### Live On chain Contract Bugs 
 
-| Protocol | Severity | Amount Paid |Platform |Status|
-|----------|----------|--------------|---------|------|
-|Elixir | MEDIUM | $1000|Immunefi|Paid|
-|YieldNest | HIGH | $5000|Immunefi|Paid| 
-|Ostium | LOW | $1000 | Immunefi |Paid|
-|Alchemix|Medium|$4000|Immunefi|Paid|
-|Gearbox | High | N.A.| Immunefi |Confirmed|
+| Protocol | Severity ||Platform |Status|
+|----------|----------|---------|------|
+|Elixir | MEDIUM |Immunefi|Paid|
+|YieldNest | HIGH |Immunefi|Paid| 
+|Ostium | LOW  | Immunefi |Paid|
+|Alchemix|Medium|Immunefi|Paid|
+|Gearbox | High | Immunefi |Paid|
 
 Checkout my **Immunefi** Profile
 
