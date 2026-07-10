@@ -11,7 +11,7 @@ Smart Contract Security Researcher(Solidity-Rust) | Solidity Developer | DeFi In
 ## Audit Portfolio
 ### Live On chain Contract Bugs 
 
-| Protocol | Severity ||Platform |Status|
+| Protocol | Severity |Platform |Status|
 |----------|----------|---------|------|
 |Elixir | MEDIUM |Immunefi|Paid|
 |YieldNest | HIGH |Immunefi|Paid| 
