@@ -3,9 +3,10 @@
 
 Smart Contract Security Researcher(Solidity-Rust) | Solidity Developer | DeFi Infrastructure Engineer
 
-- Paid findings across Immunefi, Sherlock, and competitive audit platforms
-- Specialized in DeFi protocols, concentrated liquidity systems, and EVM internals
-- Building blockchain infrastructure and analytics tooling
+- Multiple bugs found on live code earning over $16k+ in bounties on Immunefi
+- Top 10 in multiple competitive audit contests on Cantina , earning $14K+ on contest winnings . 
+- Top 3 in CodeHawks Stakelink contest (liquid staking platform), finding crucial Medium impact issue on Chainlink composability.
+- Ranked Top 20 in the Secureum’s Smart Contract Security RACE -28 contest .
 - Triaged 100+ findings with Pashov Audit Group
 
 ## Audit Portfolio
