@@ -1,63 +1,91 @@
-# AdityaKrishnan aka Angry_Mustache_Man 
-| [Immunefi](https://immunefi.com/profile/Angry_Mustache_Man/) | [Cantina](https://cantina.xyz/u/AngryMustacheMan) | [Sherlock](https://audits.sherlock.xyz/watson/Angry_Mustache_Man) | [Twitter/X](https://x.com/AdityaK0010) | [LinkedIn](https://www.linkedin.com/in/aditya-krishnan-162b5b1ba/) |
+# Hey, I'm Aditya Krishnan 👋
+### Analyst-minded problem solver | Web3 Security Researcher | Blockchain Data Enthusiast
 
-Smart Contract Security Researcher(Solidity-Rust) | Solidity Developer | DeFi Infrastructure Engineer
+I enjoy digging into complex systems, finding what doesn't add up, and turning evidence into clear, actionable insights.
 
-- Multiple bugs found on live code earning over $16k+ in bounties on Immunefi
-- Top 10 in multiple competitive audit contests on Cantina , earning $14K+ on contest winnings . 
-- Top 3 in CodeHawks Stakelink contest (liquid staking platform), finding crucial Medium impact issue on Chainlink composability.
-- Ranked Top 20 in the Secureum’s Smart Contract Security RACE -28 contest .
-- Triaged 100+ findings with Pashov Audit Group
+My work sits at the intersection of **data analysis, technical research, and Web3** — from validating 100+ smart-contract vulnerability reports to building data pipelines for blockchain event analysis.
 
-## Audit Portfolio
-### Live On chain Contract Bugs 
+🎯 **What I'm exploring:** Analyst opportunities, data-driven problem solving, and Web3 security engineering.
 
-| Protocol | Severity |Platform |Status|
-|----------|----------|---------|------|
-|Elixir | MEDIUM |Immunefi|Paid|
-|YieldNest | HIGH |Immunefi|Paid| 
-|Ostium | LOW  | Immunefi |Paid|
-|Alchemix|Medium|Immunefi|Paid|
-|Gearbox | High | Immunefi |Paid|
+---
 
-Checkout my **Immunefi** Profile
+## 🧭 A little about me
 
-### Audit Contests
+- 🎓 **Education:** B.Tech in Mining Engineering — NIT Rourkela
+- 🔎 **Research:** Reviewed and triaged 100+ vulnerability reports with Pashov Audit Group
+- 🏆 **Security research:** $16K+ in Immunefi bounties and $14K+ in competitive audit winnings
+- 📊 **Analytics:** Exploring SQL, PostgreSQL, Excel, data validation, and structured analysis
+- ⛓️ **Web3:** Smart contracts, DeFi protocols, blockchain events, and EVM security
+- 🧩 **My approach:** Investigate the evidence, question assumptions, validate the result, document the findings.
 
-Multiple **Unique/Less Duped** vulnerabilities found in multiple security audit Contests : 
+I believe the same mindset that helps uncover a smart-contract vulnerability can also help identify a data-quality issue, investigate a discrepancy, or improve a business process.
 
-|Protocol  |Highlights |Language |Rank |
-|----------|-----------|--------------------|-----| 
-|Stakelink |Issue with 2 dups | Solidity |🥉 Top 3 |
-|Doppler-Contracts|Solo issue | Solidity  |Top 7 |
-|Reflector V3 | Best QA Report | Rust| Top 7 |
-|Bima      | Solo issue | Solidity |Top 9 |
-|Silo | Issue with 1 dup | Solidity | Top 9 |  
+---
 
-Also this is my All - Time Security Sherlock Profile - https://audits.sherlock.xyz/watson/Angry_Mustache_Man 
+## 🛠️ My toolbox
 
-### Notable other experience
-Triaging Experience : I have worked with **Pashov Audit Group** in judging issues on codebases , with an experience of triaging 100+ issues/reports . 
+**Data & Analysis**
 
-## Personal projects
-### Uniswap Arbitrum Risk Indexer
-Reorg-safe Uniswap V3 event indexer built with TypeScript, ethers.js, and PostgreSQL.
+`SQL` · `PostgreSQL` · `Excel` · `Python` · `Pandas` · `NumPy`
 
-Features:
-- Pool discovery via Factory events
-- Swap/Mint/Burn indexing
-- Batched historical syncing
-- Reorg-aware checkpointing
+**Web3 & Security**
 
-Repo:
-https://github.com/ADK0010/uniswap-arb-risk-indexer 
+`Solidity` · `Foundry` · `Hardhat` · `Slither` · `EVM` · `DeFi`
 
-## Tech Stack
+**Development & Data Infrastructure**
 
-Solidity • Foundry • TypeScript • ethers.js • PostgreSQL • Hardhat • Uniswap V3 • EVM Internals • Rust
+`TypeScript` · `Node.js` · `ethers.js` · `REST APIs` · `Git`
 
+*I’m continuing to build my analytics skills alongside my existing technical research experience.*
 
-<!---
-ADK0010/ADK0010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Projects I'm proud of
+
+### ⛓️ Uniswap V3 Arbitrum Risk Indexer
+**Blockchain data infrastructure · TypeScript · PostgreSQL**
+
+Built a reorg-aware indexer that discovers Uniswap V3 pools and records Swap, Mint, and Burn events.
+
+- Implemented batched processing and checkpointing for reliable data collection.
+- Added block-hash validation to help preserve data integrity across chain reorganizations.
+- Designed structured PostgreSQL storage to support future liquidity-risk and slippage analysis.
+
+🔗 [Explore my GitHub repositories](https://github.com/ADK0010/uniswap-arb-risk-indexer)
+
+---
+
+## 🏆 Research highlights
+
+- 💰 Earned **$16K+** in security bounties through Immunefi.
+- 🥇 Earned **$14K+** in competitive audit winnings.
+- 🏅 Achieved **Top 10 finishes** in multiple Cantina audits.
+- 🥉 Ranked **Top 3** in a CodeHawks StakeLink contest.
+- 🔍 Ranked **Top 7** in the Code4rena Reflector v3 audit.
+- 🧪 Reviewed and assessed **100+ vulnerability reports** with Pashov Audit Group.
+
+These results reflect my ability to investigate complex behaviour, test assumptions, validate findings, and communicate technical evidence.
+
+---
+
+## 📈 What I'm building toward
+
+I'm interested in opportunities where analytical thinking and technical curiosity create practical value:
+
+- **Business & Data Analytics:** data validation, SQL-based analysis, reporting, and problem investigation.
+- **Product & Operations Analysis:** understanding workflows, documenting issues, and translating findings into actionable insights.
+- **Web3 Security & Engineering:** smart-contract auditing, protocol analysis, and blockchain data infrastructure.
+
+My goal is to keep learning, build useful things, and make complex problems easier to understand.
+
+---
+
+## 🤝 Let's connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/aditya-krishnan-162b5b1ba/)
+- 💻 [GitHub](https://github.com/ADK0010)
+- 🛡️ [Immunefi](https://immunefi.com/profile/Angry_Mustache_Man/)
+- 🏆 [Cantina](https://cantina.xyz/u/AngryMustacheMan)
+- 📧 [Email me](mailto:adityakrishnan0010@gmail.com)
+
+**Always curious. Always validating. Occasionally finding bugs where nobody expected them. 🐛**
