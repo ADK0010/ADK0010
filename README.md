@@ -11,7 +11,7 @@ My work sits at the intersection of **data analysis, technical research, and Web
 
 ## 🧭 A little about me
 
-- 🎓 **Education:** B.Tech in Mining Engineering — NIT Rourkela
+- 🎓 **Education:** B.Tech in Mining Engineering — NIT Rourkela(Graduated on June 2024)
 - 🔎 **Research:** Reviewed and triaged 100+ vulnerability reports with Pashov Audit Group
 - 🏆 **Security research:** $16K+ in Immunefi bounties and $14K+ in competitive audit winnings
 - 📊 **Analytics:** Exploring SQL, PostgreSQL, Excel, data validation, and structured analysis
