@@ -1,4 +1,4 @@
-# Hey, I'm Aditya Krishnan 👋
+# Hey, I'm AdityaKrishnan aka Angry_Mustache_Man(My Web3 Alias Name) 👋
 ### Analyst-minded problem solver | Web3 Security Researcher | Blockchain Data Enthusiast
 
 I enjoy digging into complex systems, finding what doesn't add up, and turning evidence into clear, actionable insights.
