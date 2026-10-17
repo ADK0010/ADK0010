@@ -1,11 +1,11 @@
 # Hey, I'm AdityaKrishnan aka Angry_Mustache_Man(My Web3 Alias Name) 👋
-### Analyst-minded problem solver | Web3 Security Researcher | Blockchain Data Enthusiast
+### Analyst-minded problem solver | Web3 Security Researcher | System Security Enthusiast
 
 I enjoy digging into complex systems, finding what doesn't add up, and turning evidence into clear, actionable insights.
 
-My work sits at the intersection of **data analysis, technical research, and Web3** — from validating 100+ smart-contract vulnerability reports to building data pipelines for blockchain event analysis.
+My work sits at the intersection of **data analysis, security research, and Web3 brainrot** — from validating 100+ smart-contract vulnerability reports to building data pipelines for blockchain event analysis.
 
-🎯 **What I'm exploring:** Analyst opportunities, data-driven problem solving, and Web3 security engineering.
+🎯 **What I'm exploring:** Analyst opportunities, Security Research and Web3 engineering.
 
 ---
 
@@ -16,9 +16,9 @@ My work sits at the intersection of **data analysis, technical research, and Web
 - 🏆 **Security research:** $16K+ in Immunefi bounties and $14K+ in competitive audit winnings
 - 📊 **Analytics:** Exploring SQL, PostgreSQL, Excel, data validation, and structured analysis
 - ⛓️ **Web3:** Smart contracts, DeFi protocols, blockchain events, and EVM security
-- 🧩 **My approach:** Investigate the evidence, question assumptions, validate the result, document the findings.
+- 🧩 **My approach:** Investigate the matter, question assumptions, validate the result, document the findings.
 
-I believe the same mindset that helps uncover a smart-contract vulnerability can also help identify a data-quality issue, investigate a discrepancy, or improve a business process.
+I believe the same mindset that helps uncover a system/smart-contract vulnerability can also help identify a data-quality issue, investigate a discrepancy, or improve a business process.
 
 ---
 
@@ -34,9 +34,9 @@ I believe the same mindset that helps uncover a smart-contract vulnerability can
 
 **Development & Data Infrastructure**
 
-`TypeScript` · `Node.js` · `ethers.js` · `REST APIs` · `Git`
+`TypeScript` · `ethers.js` · `REST APIs` · `Git`
 
-*I’m continuing to build my analytics skills alongside my existing technical research experience.*
+*I’m continuing to build my analytics skills alongside my existing Security research experience.*
 
 ---
 
@@ -64,17 +64,15 @@ Built a reorg-aware indexer that discovers Uniswap V3 pools and records Swap, Mi
 - 🔍 Ranked **Top 7** in the Code4rena Reflector v3 audit.
 - 🧪 Reviewed and assessed **100+ vulnerability reports** with Pashov Audit Group.
 
-These results reflect my ability to investigate complex behaviour, test assumptions, validate findings, and communicate technical evidence.
-
 ---
 
 ## 📈 What I'm building toward
 
 I'm interested in opportunities where analytical thinking and technical curiosity create practical value:
 
+- **Web3 Security & CyberSec Research :** smart-contract auditing, blockchain data infrastructure, cybersec roles and security research works .
 - **Business & Data Analytics:** data validation, SQL-based analysis, reporting, and problem investigation.
 - **Product & Operations Analysis:** understanding workflows, documenting issues, and translating findings into actionable insights.
-- **Web3 Security & Engineering:** smart-contract auditing, protocol analysis, and blockchain data infrastructure.
 
 My goal is to keep learning, build useful things, and make complex problems easier to understand.
 
