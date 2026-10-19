@@ -51,7 +51,17 @@ Built a reorg-aware indexer that discovers Uniswap V3 pools and records Swap, Mi
 - Added block-hash validation to help preserve data integrity across chain reorganizations.
 - Designed structured PostgreSQL storage to support future liquidity-risk and slippage analysis.
 
-🔗 [Explore my GitHub repositories](https://github.com/ADK0010/uniswap-arb-risk-indexer)
+🔗 [GitHub Repo](https://github.com/ADK0010/uniswap-arb-risk-indexer) 
+
+### Bank Credit Risk Analysis 
+**Python (Pandas) · MySQL**
+- Loaded and checked 1,000 historical credit cases from the UCI German Credit dataset using Pandas.
+- Grouped loans by duration and amount, then imported the prepared CSV into MySQL.
+- Used SQL to compare bad-risk rates; loans over 24 months had a 44.35% rate versus 21.17% for loans up to 12
+months.
+
+🔗 [GitHub Repo](https://github.com/ADK0010/bank-credit-risk-analysis) 
+
 
 ---
 
@@ -81,7 +91,6 @@ My goal is to keep learning, build useful things, and make complex problems easi
 ## 🤝 Let's connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/aditya-krishnan-162b5b1ba/)
-- 💻 [GitHub](https://github.com/ADK0010)
 - 🛡️ [Immunefi](https://immunefi.com/profile/Angry_Mustache_Man/)
 - 🏆 [Cantina](https://cantina.xyz/u/AngryMustacheMan)
 - 📧 [Email me](mailto:adityakrishnan0010@gmail.com)
