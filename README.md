@@ -53,16 +53,6 @@ Built a reorg-aware indexer that discovers Uniswap V3 pools and records Swap, Mi
 
 🔗 [GitHub Repo](https://github.com/ADK0010/uniswap-arb-risk-indexer) 
 
-### Bank Credit Risk Analysis 
-**Python (Pandas) · MySQL**
-- Loaded and checked 1,000 historical credit cases from the UCI German Credit dataset using Pandas.
-- Grouped loans by duration and amount, then imported the prepared CSV into MySQL.
-- Used SQL to compare bad-risk rates; loans over 24 months had a 44.35% rate versus 21.17% for loans up to 12
-months.
-
-🔗 [GitHub Repo](https://github.com/ADK0010/bank-credit-risk-analysis) 
-
-
 ---
 
 ## 🏆 Research highlights
